@@ -66,3 +66,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+# github-jobs
+A react app to display the jobs available in github using the github jobs api with search and filter mechanism.
